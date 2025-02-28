@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const quotationHTML = `
             <div class="credential-content">
                 <header>
-                    <img src="logo.png" alt="Logo" class="logo">
+                    <img src="CMM.png" alt="Logo" class="logo">
                     <h1>CONSELHO MUNICIPAL</h1>
                     <h1>MUNICÍPIO DE MAPUTO</h1>
                     <h2>DIRECÇÃO MUNICIPAL DOS TRANSPORTES E TRÂNSITO</h2>
