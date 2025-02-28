@@ -294,7 +294,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             <div class="credential-content">
                 <img src="watermark.png" alt="" class="watermark">
                 <header>
-                    <img src="logo.png" alt="Município de Maputo Logo" class="logo">
+                    <img src="CMM.png" alt="Município de Maputo Logo" class="logo">
                     <h1>MUNICÍPIO DE MAPUTO</h1>
                     <h2>CONSELHO MUNICIPAL</h2>
                     <h3>PELOURO DE MOBILIDADE, TRANSPORTES E TRÂNSITO</h3>
