@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return `
             <div class="credential-content">
                 <header>
-                    <img src="logo.png" alt="Logo" class="logo">
+                    <img src="CMM.png" alt="Logo" class="logo">
                     <h1>CONSELHO MUNICIPAL</h1>
                     <h1>MUNICÍPIO DE MAPUTO</h1>
                     <h2>DIRECÇÃO MUNICIPAL DOS TRANSPORTES E TRÂNSITO</h2>
@@ -409,7 +409,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return `
             <div class="credential-content">
                 <header>
-                    <img src="logo.png" alt="Logo" class="logo">
+                    <img src="CMM.png" alt="Logo" class="logo">
                     <h1>CONSELHO MUNICIPAL</h1>
                     <h1>MUNICÍPIO DE MAPUTO</h1>
                     <h2>DIRECÇÃO MUNICIPAL DOS TRANSPORTES E TRÂNSITO</h2>
@@ -522,7 +522,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 <div class="credential-content">
                     <img src="watermark.png" alt="" class="watermark">
                     <header>
-                        <img src="logo.png" alt="Município de Maputo Logo" class="logo">
+                        <img src="CMM.png" alt="Município de Maputo Logo" class="logo">
                         <h1>MUNICÍPIO DE MAPUTO</h1>
                         <h2>CONSELHO MUNICIPAL</h2>
                         <h3>PELOURO DE MOBILIDADE, TRANSPORTES E TRÂNSITO</h3>
